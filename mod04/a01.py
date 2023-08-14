@@ -6,7 +6,7 @@ curr_round = 0
 total_round = 5
 
 while (guess != secret_number) and (curr_round < total_round):
-    print("You are in your {} round. There are {} rounds remaining.".format(curr_round, total_round-curr_round))
+    print("You are in the round of number {}. There are {} rounds remaining.".format(curr_round, total_round-curr_round))
     guess = int(input("Type your number: "))
     print("You typed: ", guess)
 
