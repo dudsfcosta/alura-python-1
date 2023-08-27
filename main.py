@@ -15,4 +15,8 @@ if __name__ == '__main__':
 # import mod05.ex01
 # import mod05.ex02
 # import mod05.a02
-import mod05.a03
+# import mod05.a03
+# import mod06.a01
+# import mod06.a02
+# import mod06.ex01
+import mod06.ex02
