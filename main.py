@@ -19,4 +19,3 @@ if __name__ == '__main__':
 # import mod06.a01
 # import mod06.a02
 # import mod06.ex01
-import mod06.ex02
